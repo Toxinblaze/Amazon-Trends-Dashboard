@@ -19,7 +19,7 @@ A Table listing the Top 5 Products by Sales & Profit Margin.
 I added a slicer for filtering data by Year and Country.
 Also added tooltips showing additional details when hovering over data points.
 
--	Dashboard Interaction <a href=”https://github.com/Toxinblaze/Amazon-Trends-Dashboard/blob/main/Amazon%20Sales%20Overview1.png”>View Dashboard</a>
+-	Dashboard Interaction <a href="https://github.com/Toxinblaze/Amazon-Trends-Dashboard/blob/main/Amazon%20Sales%20Overview1.png">View Dashboard</a>
 
 ## Process 
 Power Query - Data Cleaning & Transformation
