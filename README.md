@@ -1,6 +1,6 @@
 # Amazon-Sales-Data Analysis (Interactive Dashboard creation using Power BI)
 ## Project Objective 
-To create an annual sales report which analyze and optimize sales performance, profitability, and market reach by leveraging data on products, channels, geographies, and seasonal trends from 2010 to 2017
+To create a report which analyze and optimize sales performance, profitability, and market reach by leveraging data on products, channels, geographies, and seasonal trends from 2010 to 2017
 
 ## Dataset used
 - <a href="https://github.com/Toxinblaze/Amazon-Trends-Dashboard/blob/main/AmazonSalesData.xlsx">Dataset</a>
@@ -41,3 +41,6 @@ To create an annual sales report which analyze and optimize sales performance, p
 - Top-Selling Product
 - Profit Margin (%)
 
+## Dashboard
+
+![Amazon Sales Overview1](https://github.com/user-attachments/assets/b819e4f0-3c70-4c50-b2e5-60621ad365ad)
