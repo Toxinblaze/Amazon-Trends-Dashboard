@@ -2,3 +2,5 @@
 ## Project Objective 
 To create an annual sales report which analyze and optimize sales performance, profitability, and market reach by leveraging data on products, channels, geographies, and seasonal trends from 2010 to 2017
 
+## Dataset used
+- <a href="https://github.com/Toxinblaze/Amazon-Trends-Dashboard/blob/main/AmazonSalesData.xlsx">Dataset</a>
